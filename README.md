@@ -1,4 +1,12 @@
-# 11501_CS203A
-- Course information:To train the student in the information representation and manipulation and prepare the student for professional program design Students obtain experiences in 1. Data abstraction 2. Principles of data structure and algorithm design 3. Data structure techniques 4. Performance evaluation of data processing
-- 李宗諺/1141422
-- Repository description:Course repo
+# 11501_CS203A - Data Structures
+
+## 課程資訊
+* **課程名稱：** Data Structures (CS203A)
+* **學期：** 115-1
+
+## 姓名/學號
+* **姓名：** 李宗諺
+* **學號：** 1141422
+
+## 儲存庫簡介
+本儲存庫用於存放 115-1 學期 CS203A 課程的所有作業、實驗課程式碼與專案實作。
